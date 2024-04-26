@@ -1,1 +1,12 @@
 /* Start coding here */
+#email {
+  background-color: lightgrey;
+}
+
+input:hover {
+  border: 2px solid khaki;
+}
+
+button:hover {
+  color: pink;
+}
